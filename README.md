@@ -79,13 +79,19 @@ This application is built using [Gradio](https://gradio.app/), making it easy to
 3. **Open in your browser:**  
    After starting, Gradio will provide a local URL (e.g., http://127.0.0.1:7860/). Open this link in your web browser to access the Deep Research Assistant.
 
+## Live Demo
+
+Try the Deep Research Assistant instantly in your browser:  
+[https://huggingface.co/spaces/manju0707/deep-research-assistant-by-manjunath-asundi](https://huggingface.co/spaces/manju0707/deep-research-assistant-by-manjunath-asundi)
+
+Image link - 
 ### Example
 
 Suppose you want to research "The impact of remote work on employee productivity."  
 - Enter this query into the app.
 - The assistant will generate three focused search terms, such as "remote work productivity studies," "challenges of remote work," and "benefits of remote work for companies."
 - It will search the web for each term, summarize the findings, and then synthesize a detailed report.
-- The final report will be displayed in the app and can be sent to your email for convenience.
+- The final report will be displayed in the app and can also be sent to your email for convenience.
 
 ---
 
